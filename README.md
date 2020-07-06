@@ -2,7 +2,7 @@
 # Instagram-Leads-Scraper
  A simple web scraper that makes it easy for marketers and businesses to extract leads from instagram search results.
 
-# Benefit of Project
+# Project Benefit
 With this scraper, you can find leads and prospective clients based on area of interest to market your product to. You can also find market influencers, contact them for business or enquires.
 
 # Process
