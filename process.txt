@@ -1,0 +1,11 @@
+Instagram Leads Scraper
+
+A tool that allows marketers extract email and phone numbers, followers, following, post-total, profile-links and website links from instagram profiles
+
+* We start by open an initial page just to have access to the search box
+* We type the inputed query provided to us
+* We extract the entire search results
+* Filter out hashtags and leave just pages
+* We open each individual profiles 
+* Extract their profile, name, followers and following, profile-links and also web links
+* Email/Mobile is compulsory, we don't extract pages without emails or phone number
